@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-نماینده رسمی شرکت فاراتل در استان تهران##
+## نماینده رسمی شرکت فاراتل در استان تهران
 
 ![](https://kianups.ir/wp-content/uploads/2021/11/LOGO.png)
 
